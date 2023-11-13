@@ -23,7 +23,7 @@ position: fixed;
 .logo{
 
     text-decoration: none;
-    color: red;
+    color: rgb(200, 255, 0);
     text-transform: uppercase;
     font-size: 2rem;
     font-weight: 700;
